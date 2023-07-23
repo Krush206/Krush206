@@ -10,13 +10,13 @@ I am a passionate computer programmer. I have affinity in the IT area since my c
 Currently, I am learning object-oriented programming through Smalltalk, a purely object-oriented language. Thanks to Smalltalk, Java is easier to learn, and thus triggered an interest in Java.
 </p>
 
-## Profile stats:
+## Profile stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krush206&theme=slateorange" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush206&langs_count=8&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush206&langs_count=5&theme=great-gatsby">
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@ Currently, I am learning object-oriented programming through Smalltalk, a purely
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krush206&theme=slateorange" />
 </div>
 
-## Skills & technologies:
+## Skills & technologies
 <div align="center">
   <img src="https://img.shields.io/badge/Languages:-orange" />
 </div>
