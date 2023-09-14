@@ -34,7 +34,7 @@ Currently, I am learning object-oriented programming through Smalltalk, a purely
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,bash" />
+  <img src="https://skillicons.dev/icons?i=c,java,bash,html,css,javascript" />
 </div>
 
 <div align="center">
