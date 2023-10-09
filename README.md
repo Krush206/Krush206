@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-I am a passionate computer programmer. I have affinity in the IT area since my childhood. The languages I excel at are C and Shell. I am a Unix and Linux guru.
+I am a passionate computer programmer. I have affinity in the IT area since my childhood. The languages I excel at are C, Objective-C, Java, C#, JavaScript and Shell. I am a Unix and Linux guru.
 </p>
 
 ## Profile stats
