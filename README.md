@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-I am a passionate computer programmer. I have affinity in the IT area since my childhood. The languages I excel at are C, Objective-C, Java, C#, JavaScript and Shell. I am a Unix and Linux guru.
+I am a passionate computer programmer. I have affinity in the IT area since my childhood. The languages I excel at are C, Objective-C, Smalltalk, Java, C#, JavaScript and Shell. I am a Unix and Linux guru.
 </p>
 
 ## Profile stats
@@ -41,7 +41,7 @@ I am a passionate computer programmer. I have affinity in the IT area since my c
   <img src="https://skillicons.dev/icons?i=git,vim" /> 
 </div>
 
-## Projects and works
+## Projects & works
 <details>
   <summary>Shell script</summary>
 
