@@ -6,7 +6,7 @@
 	I am a passionate computer programmer.
 	I have affinity in the IT area since my childhood.
 	The languages I excel at are
-	C, Objective-C, Smalltalk, Java, C#, JavaScript and Shell.
+	C, Objective-C, Smalltalk, Java, C#, JavaScript, Python and Shell.
 	I am a Unix and Linux guru.
 </p>
 
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=c,java,bash,html,css,javascript">
+	<img src="https://skillicons.dev/icons?i=c,java,cs,py,bash,html,css,javascript">
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=git,vim">
+	<img src="https://skillicons.dev/icons?i=git,vim,eclipse,visualstudio,sublime,maven,cmake,bsd,linux">
 </div>
 
 ## Projects & works
