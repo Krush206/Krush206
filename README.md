@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=Krush206">
+	<img src="https://komarev.com/ghpvc/?username=Krush206&style=for-the-badge" width=50%>
 </div>
 
 ## Skills & technologies
