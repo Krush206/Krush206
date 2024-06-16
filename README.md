@@ -28,6 +28,10 @@
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krush206&theme=slateorange">
 </div>
 
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=Krush206">
+</div>
+
 ## Skills & technologies
 <div align="center">
 	<img src="https://img.shields.io/badge/Languages:-orange">
