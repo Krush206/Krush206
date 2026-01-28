@@ -34,7 +34,7 @@
 
 ## Skills & technologies
 <div align="center">
-	<img src="https://img.shields.io/badge/Languages:-orange">
+	<img src="https://img.shields.io/badge/Languages-orange">
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Development:-orange">
+	<img src="https://img.shields.io/badge/Development-orange">
 </div>
 
 <div align="center">
